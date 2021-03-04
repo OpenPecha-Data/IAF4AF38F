@@ -1,15 +1,16 @@
-id: opecha:P000466
+id: P000466
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W21765
   title: ཐོག་ཁང་དམར་པོའི་རྨི་ལམ།
-  volume:
+  author: ''
+  volumes:
     2be1434453774832a871448816cb0edd:
       image_group_id: I1KG21234
       title: Volume 1 of thog khang dmar po'i rmi lam/
       volume_number: 1
       total_pages: 274
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཐོག་ཁང་དམར་པོའི་རྨི་ལམ།
   author: ''
